@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jdbc_pg_z:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jdbc_pg_z_jar</output-path>
+    <root id="archive" name="jdbc_pg_z.jar">
+      <element id="module-output" name="jdbc_pg_z" />
+      <element id="module-test-output" name="jdbc_pg_z" />
+      <element id="extracted-dir" path="C:/DRIVERS/JDBC/json-20190722.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/DRIVERS/JDBC/postgresql-42.2.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/DRIVERS/JDBC/ojdbc6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
